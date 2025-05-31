@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Active Directory Projects:</h2>
 
-- <b>Adding 1,000 Users Using Powershell</b>
+- <b>Adding 1,000 Users Using Powershell(https://github.com/Ethan-Edgeworth/ActiveDirectoryLab)</b>
   - Something is here
   - 
 <h2>👨‍💻 Ticketing System Projects:</h2>
